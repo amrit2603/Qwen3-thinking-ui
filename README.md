@@ -26,6 +26,11 @@ This project leverages Qwen3:4B and Streamlit to create a 100% locally running m
    streamlit run app.py -w
    ```
 
+**DEMO**:
+<img width="1913" height="978" alt="image" src="https://github.com/user-attachments/assets/5a2e66b3-91db-44df-b9df-227e856d5ad6" />
+<img width="1913" height="992" alt="Screenshot 2026-02-27 144212" src="https://github.com/user-attachments/assets/77f606c0-e446-483f-91d7-130230b5c994" />
+
+
 ---
 
 ---
